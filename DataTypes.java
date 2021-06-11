@@ -38,6 +38,6 @@ public class DataTypes{
   JOptionPane.showMessageDialog(null, "Hai " + namaDepan +" "
          + namaTengah +" "
          +namaBelakang);
-
+  namaBelakang = JOptionPane.showInputDialog("Nama Belakang : ");
  }
 }
